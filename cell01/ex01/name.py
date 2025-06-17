@@ -1,4 +1,4 @@
-first_name = "Chollada"
-last_name  = "Sungyalo"
-Whole_name = first_name + " " + last_name
-print (Whole_name)
+fist_name = "first"
+last_name = "last"
+whole_name = first_name + " " + last_name
+print(whole_name)
